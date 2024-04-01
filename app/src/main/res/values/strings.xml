@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DealNoDeal</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="deal_button_label">Deal</string>
+    <string name="no_deal_label">No Deal</string>
+    <string-array name="choose_array">
+        <item>Bank Deal is $</item>
+        <item>Choose 1 case</item>
+        <item>Choose 2 cases</item>
+        <item>Choose 3 cases</item>
+        <item>Choose 4 cases</item>
+        <item>You won</item>
+    </string-array>
+</resources>
